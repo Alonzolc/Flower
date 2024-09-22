@@ -39,6 +39,7 @@ body {
 
 .flowers {
   position: relative;
+  place-items: center;
   transform: scale(0.9);
 }
 
